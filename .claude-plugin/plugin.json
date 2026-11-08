@@ -1,0 +1,18 @@
+{
+  "name": "usability-hci",
+  "description": "Classical, research-based usability and HCI principles (K1-K15, C1-C5) for building and reviewing user interfaces.",
+  "version": "1.0.2",
+  "author": {
+    "name": "Pawel Strzyzewski",
+    "url": "https://github.com/strzyzewski"
+  },
+  "repository": "https://github.com/strzyzewski/hci-ux-skill",
+  "keywords": [
+    "usability",
+    "hci",
+    "ux-review",
+    "heuristic-evaluation",
+    "forms"
+  ],
+  "license": "MIT"
+}

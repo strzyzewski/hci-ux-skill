@@ -1,0 +1,18 @@
+{
+ "B1": {
+  "X": "skill",
+  "Y": "base"
+ },
+ "B2": {
+  "X": "skill",
+  "Y": "base"
+ },
+ "B3": {
+  "X": "base",
+  "Y": "skill"
+ },
+ "R1": {
+  "X": "skill",
+  "Y": "base"
+ }
+}

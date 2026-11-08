@@ -1,0 +1,14 @@
+{
+  "name": "hci-ux-skill",
+  "description": "Single-plugin marketplace for the usability-hci skill: classical, research-based usability and HCI principles for building and reviewing UIs.",
+  "owner": {
+    "name": "Pawel Strzyzewski"
+  },
+  "plugins": [
+    {
+      "name": "usability-hci",
+      "source": "./",
+      "description": "Classical, research-based usability and HCI principles for building and reviewing user interfaces."
+    }
+  ]
+}
